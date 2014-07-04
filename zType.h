@@ -21,7 +21,7 @@ typedef signed   int	SDWORD;
 
 typedef unsigned long	QWORD;
 
-typedef signed long		SQWORD;
+typedef signed long	    SQWORD;
 
 #define SAFE_SUB(x, y)	((x) > (y) ? (x) - (y) : 0)
 
