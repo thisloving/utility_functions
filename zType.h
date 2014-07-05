@@ -35,4 +35,7 @@ typedef signed long	    SQWORD;
 
 #define MAX_NAMESIZE	32
 
+#define DAY_SECS (24 * 60 * 60)
+#define SIX_HOURS (6 * 60 * 60)
+
 #endif  //_zType_h_
